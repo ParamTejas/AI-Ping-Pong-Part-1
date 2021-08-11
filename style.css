@@ -1,0 +1,9 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+#start, #status
+{
+    font-size: 25px;
+}
