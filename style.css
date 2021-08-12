@@ -1,9 +1,24 @@
 .heading
 {
-    width: 100%;
-    text-align: left;
+width: 100%;
+text-align: left;
 }
-#start, #status
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start ,#status, #restart
 {
-    font-size: 25px;
+font-size: 22px;
+}
+h4
+{
+   background-color: grey;
+   color:white;
+   line-height: 2;
 }
